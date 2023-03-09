@@ -1,5 +1,5 @@
 server:
-  port: 8723
+  port: ${PORT:8885}
 
 idRandom: ${random.value}
 
