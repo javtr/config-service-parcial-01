@@ -11,8 +11,8 @@ spring:
     url: jdbc:mysql://localhost:3370/movie-db
     username: root
     password: 1234
+    
   jpa:
-  
     open-in-view: false
     show-sql: true
     hibernate:
