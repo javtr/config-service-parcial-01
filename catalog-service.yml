@@ -15,7 +15,16 @@ spring:
       database: catalog
       port: 27017
       
-      
+  rabbitmq:
+    username: guest
+    password: guest
+    host: localhost
+    port: 5672
+
+queue:
+  serie:
+    name: ParcialQueue1     
+   
    
 
 message: prueba desde git hub
