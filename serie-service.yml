@@ -22,7 +22,7 @@ spring:
     port: 5672
 
 queue:
-  persona:
+  serie:
     name: ParcialQueue1
 
 message: registro up
