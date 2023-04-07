@@ -13,7 +13,7 @@ spring:
   data:
     mongodb:
       database: catalog
-      port: 27017
+      port: 27031
       
   rabbitmq:
     username: guest
