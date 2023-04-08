@@ -24,6 +24,8 @@ spring:
 queue:
   serie:
     name: ParcialQueue1     
+  movie:
+    name: QueueMovieParcial        
    
    
 
